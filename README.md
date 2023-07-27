@@ -1,6 +1,6 @@
 # python-api-challenge
 
-##WeatherPy
+## WeatherPy
 
 Imported dependencies
 Generated a random list of cities and added the latitudes and longitudes to a list called cities.
@@ -41,7 +41,7 @@ The average temperature of a given city showed a high corelation with distance f
 I suspect that other factors such as altitude, nearness to a body of water, and frequency of seismic activity show a higher correlation with these variables.
 
 
-##VacationPy
+## VacationPy
 Using the previous list of cities, I created a map with each city on it represented by a point with the size of the point proportional to the humidity.
 
 
